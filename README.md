@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 Print of the finished project.
 
-![plot](./print-movies finished project/Captura de Tela (1240).png)
+![plot](./image/image1.png)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
