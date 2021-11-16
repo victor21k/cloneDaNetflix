@@ -22,7 +22,7 @@ Print of the finished project.
 
 - [Material UI](https://mui.com/)
 - [API TMDB](https://www.themoviedb.org/)
-- 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
