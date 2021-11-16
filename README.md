@@ -13,7 +13,7 @@ In the project directory, you can run:
 Print of the finished project.
 
 ![plot](./image/image1.png)
-[![Watch the video](./image/23-48-44.mp4)
+[![asciicast](./image/23-48-44.mp4)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
